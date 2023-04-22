@@ -8,8 +8,17 @@ Github: https://github.com/FahadulShadhin/django_login_system
 Video: https://www.youtube.com/watch?v=tUqUdu0Sjyc
 
 
+To Add Google Auth API:
 
-Error:
+Reference: https://dev.to/mdrhmn/django-google-authentication-using-django-allauth-18f8
+
+
+
+
+
+###################################ERROR SECTION #######################################################################
+
+Errors:
 
 user_profile table does not exist.
 
