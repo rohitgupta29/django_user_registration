@@ -6,3 +6,18 @@ Github: https://github.com/FahadulShadhin/django_login_system
 
 
 Video: https://www.youtube.com/watch?v=tUqUdu0Sjyc
+
+
+
+Error:
+
+user_profile table does not exist.
+
+It is usually due to lack of sync of django table with the database.
+
+Soluton: """python manage.py migrate --run-syncdb """
+
+link: https://stackoverflow.com/questions/25771755/django-operationalerror-no-such-table
+
+
+Article for Table creation with Postgres: https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
