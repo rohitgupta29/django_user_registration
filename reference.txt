@@ -12,8 +12,13 @@ To Add Google Auth API:
 
 Reference: https://dev.to/mdrhmn/django-google-authentication-using-django-allauth-18f8
 
+Add Timer to Quiz:
 
+video: https://www.youtube.com/watch?v=2t_pb578zbY&list=PLgjw1dR712jrkldk1GFPQkPsp1RsZ3K1u&index=6
 
+Reference: https://stackoverflow.com/questions/49292879/what-is-the-way-to-create-the-quiz-experience-for-the-appearing-candidate-for-dj (Concept)
+
+sec Resource: https://stackoverflow.com/questions/10603409/how-to-implement-countdown-timer-in-django
 
 
 ###################################ERROR SECTION #######################################################################
@@ -30,3 +35,19 @@ link: https://stackoverflow.com/questions/25771755/django-operationalerror-no-su
 
 
 Article for Table creation with Postgres: https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+
+
+Useful Code Repositories:
+
+1. django-multiple-user-types-example : https://github.com/sibtc/django-multiple-user-types-example
+
+2. Django Quiz App: https://github.com/sswapnil2/django-quiz-app
+
+3. Quiz me: https://github.com/RobBednark/quiz-me
+
+
+Other Useful Videos for Quiz App:
+
+1. https://www.youtube.com/playlist?list=PLgjw1dR712jrkldk1GFPQkPsp1RsZ3K1u (PyPlane)
+
+2.https://www.youtube.com/playlist?list=PLVBKjEIdL9buA8BUtYbAyXG9LCzBK7SIa (Coding for All (Hindi))
