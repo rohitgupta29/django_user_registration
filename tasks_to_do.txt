@@ -1,0 +1,7 @@
+
+
+1. Integrate user authentication with the quiz application.
+
+2. Try spreadsheets as database
+
+3. Add timer to the quiz
