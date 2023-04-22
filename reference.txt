@@ -1,0 +1,8 @@
+
+
+Blog: https://python.plainenglish.io/user-registration-and-login-authentication-in-django-2f3450479409
+
+Github: https://github.com/FahadulShadhin/django_login_system
+
+
+Video: https://www.youtube.com/watch?v=tUqUdu0Sjyc
